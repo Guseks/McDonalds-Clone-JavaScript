@@ -1035,6 +1035,7 @@ function styleBody(){
   applyStyles([{id: 'padding-bottom', value: '50px'},
             {id: 'padding', value: '0px'},
             {id: 'color', value: 'rgb(41, 41, 41)'}],document.body);
+  document.title = "McDonalds Clone JavaScript"
 }
 
 function eventListenersSetUp(){
