@@ -1,10 +1,10 @@
 # McDonalds Clone
 
-Creating a copy of the page `https://www.mcdonalds.com/us/en-us/about-our-food/meet-our-food-experts.html` using only JavaScript. Project is used to practice using different functions and standard methods in JavaScript, but also to get familiar with the concept of the DOM - Document Object Model.
+Creating a copy of the page `https://www.mcdonalds.com/us/en-us/about-our-food/meet-our-food-experts.html` using only JavaScript. Project is used to practice using different functions and standard methods in JavaScript, but also to get familiar with the concept of the DOM - Document Object Model. A project focused on designing the page using HTML and CSS is used as the template for how to create the design of the page. The actual page is then created using only JavaScript.
 
 ## Code structure
 
-A basic html file is created and then the entire page is created in the `script.js` file. A project focused on creating the actual layout is used as the foundations to how to implement the layout. The code divides the page into several sections, where each section is then created by calling a function. This function calls other help functions locally defined inside the function responsible for creating the section. The concept of using nested functions is used to place the functions close to where they are being called. 
+A basic html file is created and then the entire page is created in the `script.js` file. The code divides the page into several sections, where each section is then created by calling a function. This function calls other help functions locally defined inside the function responsible for creating the section. The concept of using nested functions is used to place the functions close to where they are being called. 
 Below is an example of the code.
 
 ```js
